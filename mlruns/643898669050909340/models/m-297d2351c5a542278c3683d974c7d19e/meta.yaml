@@ -1,0 +1,10 @@
+artifact_location: file:D:/Pijak Dicoding/Eksperimen_SML_AnnisaOktoraNurusyifa/mlruns/643898669050909340/models/m-297d2351c5a542278c3683d974c7d19e/artifacts
+creation_timestamp: 1778575515763
+experiment_id: '643898669050909340'
+last_updated_timestamp: 1778575519062
+model_id: m-297d2351c5a542278c3683d974c7d19e
+model_type: null
+name: burly-ox-773
+source_run_id: a42f65486644440b962bcc4fbf57cefc
+status: 2
+status_message: null

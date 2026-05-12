@@ -1,0 +1,23 @@
+artifact_path: file:D:/Pijak Dicoding/Eksperimen_SML_AnnisaOktoraNurusyifa/mlruns/643898669050909340/models/m-27051fa8e74a49bfafb0e2e88533476d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-27051fa8e74a49bfafb0e2e88533476d
+model_size_bytes: 1221329
+model_uuid: m-27051fa8e74a49bfafb0e2e88533476d
+prompts: null
+run_id: 0cb88dc90fa34ee1947017c4eca3fc7e
+utc_time_created: '2026-05-12 08:07:00.051425'

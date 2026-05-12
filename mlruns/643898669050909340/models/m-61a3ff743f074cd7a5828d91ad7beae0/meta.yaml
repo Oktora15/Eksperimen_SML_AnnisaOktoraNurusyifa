@@ -1,0 +1,10 @@
+artifact_location: file:D:/Pijak Dicoding/Eksperimen_SML_AnnisaOktoraNurusyifa/mlruns/643898669050909340/models/m-61a3ff743f074cd7a5828d91ad7beae0/artifacts
+creation_timestamp: 1778575170189
+experiment_id: '643898669050909340'
+last_updated_timestamp: 1778575173108
+model_id: m-61a3ff743f074cd7a5828d91ad7beae0
+model_type: null
+name: model
+source_run_id: 482bceede3c042278ff28c258bbf7bcc
+status: 2
+status_message: null
