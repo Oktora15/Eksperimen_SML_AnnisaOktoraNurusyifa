@@ -18,7 +18,7 @@ import seaborn as sns
 # SETUP DAGSHUB (ONLINE TRACKING - ADVANCE)
 # =====================================================
 dagshub.init(
-    repo_owner="Oktora15",  # GANTI jika perlu
+    repo_owner="Oktora15", 
     repo_name="Eksperimen_SML_AnnisaOktoraNurusyifa",
     mlflow=True
 )
