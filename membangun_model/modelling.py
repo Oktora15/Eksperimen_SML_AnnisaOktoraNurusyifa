@@ -25,6 +25,7 @@ dagshub.init(
 
 mlflow.set_experiment("Heart_Disease_Experiment")
 
+mlflow.autolog()
 # =====================================================
 # LOAD DATA
 # =====================================================
