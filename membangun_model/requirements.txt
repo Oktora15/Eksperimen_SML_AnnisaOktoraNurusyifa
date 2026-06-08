@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+mlflow
+dagshub
+matplotlib
+seaborn
+joblib
+
+# Optional for Model tuning script
+numpy
